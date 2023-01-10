@@ -1,0 +1,9 @@
+{
+	"name": "adf-demo-subropoint",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d53808b0-c1d1-4b99-a6ad-adf720edcca5",
+		"tenantId": "707118c9-65c0-45b3-a435-33efe37cf0cc"
+	}
+}
